@@ -1,0 +1,3 @@
+0 DrySkin
+1 NormalSkin
+2 OilySkin
